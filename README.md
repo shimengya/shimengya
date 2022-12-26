@@ -44,4 +44,4 @@ I am **a runner🏃‍♀️, a swimmer🏊‍♀️, a tennis player🎾, a sno
 </p>
  
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shimengya)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shimengya&layout=compact)
