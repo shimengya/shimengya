@@ -30,10 +30,10 @@ I am **a runner🏃‍♀️, a swimmer🏊‍♀️, a tennis player🎾, a sno
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 <a href="https://posit.co/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="60" height="40"/> </a> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="60" height="30"/> </a> 
 
 <a href="https://public.tableau.com/app/discover" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="80" height="40"/> </a> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="80" height="25"/> </a> 
  
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
